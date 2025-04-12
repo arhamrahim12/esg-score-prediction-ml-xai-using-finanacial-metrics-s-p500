@@ -1,4 +1,4 @@
-# ESG Performance Prediction Using Financial Indicators
+# ESG Score Prediction Using Financial Indicators- S&P 500
 
 This repository contains the code and data for my MSc dissertation project, which investigates whether financial metrics can predict ESG performance using machine learning and explainable AI. The analysis is conducted on the S&P 500 dataset across sectors.
 
